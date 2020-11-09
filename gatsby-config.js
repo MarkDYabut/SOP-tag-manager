@@ -10,7 +10,7 @@ module.exports = {
       options: {
         id: "GTM-KWPHXDQ",
         // Defaults to false meaning GTM will only be loaded in production.
-        includeInDevelopment: false,
+        includeInDevelopment: true,
       },
     },
     `gatsby-plugin-react-helmet`,
